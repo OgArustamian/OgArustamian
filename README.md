@@ -1,4 +1,4 @@
-### Hi there 👋
+![header greetings](https://github.com/OgArustamian/OgArustamian/blob/main/header.png?raw=true)
 
 <!--
 **OgArustamian/OgArustamian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
