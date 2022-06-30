@@ -1,8 +1,8 @@
 ![header greetings](https://github.com/OgArustamian/OgArustamian/blob/main/header-banner.png?raw=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OgArustamian&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <img align="right" src="https://github-readme-stats.vercel.app/api?username=OgArustamian&show_icons=true&theme=vision-friendly-dark" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OgArustamian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OgArustamian&show_icons=true&theme=vision-friendly-dark)
 
 ### My current stack:
 
