@@ -4,6 +4,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OgArustamian&show_icons=true&theme=vision-friendly-dark)
 
+### In my free time I like to practice on Codewars
+![Codewars](https://www.codewars.com/users/OgArustamian/badges/large)
+
 ### My current stack:
 
 [![React](https://shields.io/badge/-React-f9fbfa?logo=react&style=for-the-badge)](https://reactjs.org/)&nbsp;
