@@ -1,14 +1,18 @@
-![header greetings](https://github.com/OgArustamian/OgArustamian/blob/main/header-banner.png?raw=true)
+![header greetings](https://github.com/OgArustamian/OgArustamian/blob/main/header-banner.png?raw=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OgArustamian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#### I am frontend developer. I like to make user-friendly interfaces and give life to webpages using JavaScript. Also i like to travel and have a passion for movies and videogames.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OgArustamian&show_icons=true&theme=vision-friendly-dark)
+ <img align="left" alt="Coding" width="400" src="https://github.com/OgArustamian/OgArustamian/blob/main/1*JgXuFLW8zhBVYB1SocHu_w.gif?raw=true">  
+ <img align="right" alt="top-langs" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OgArustamian&layout=compact">  
+ <img align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=OgArustamian&show_icons=true&theme=vision-friendly-dark">. 
 
-### In my free time I like to practice on Codewars
+---
+
+#### In my free time I like to practice on Codewars
 ![Codewars](https://www.codewars.com/users/OgArustamian/badges/large)
 
-### My current stack:
-
+---
+#### My current stack:
 [![React](https://shields.io/badge/-React-f9fbfa?logo=react&style=for-the-badge)](https://reactjs.org/)&nbsp;
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)&nbsp;
 [![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/) &nbsp;
