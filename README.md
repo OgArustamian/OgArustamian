@@ -1,6 +1,6 @@
 ![header greetings](https://github.com/OgArustamian/OgArustamian/blob/main/header-banner.png?raw=true)  
 
-#### I am frontend developer. I like to make user-friendly interfaces and give life to webpages using JavaScript. Also i like to travel and have a passion for movies and videogames.
+#### I am frontend developer. I like to make user-friendly interfaces and give life to webpages using JavaScript. Currently learning TypeScript.
 
 <img align="left" alt="Coding" width="400" src="https://github.com/OgArustamian/OgArustamian/blob/main/1*JgXuFLW8zhBVYB1SocHu_w.gif?raw=true">  
 
